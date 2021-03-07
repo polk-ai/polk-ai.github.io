@@ -34,11 +34,8 @@ video {
 
 @media (pointer: coarse) and (hover: none) {
   body {
-    background: url('../img/bg-mobile-fallback.jpg') $primary no-repeat center center scroll;
+    background: url('../img/shutterstock_751715872.jpg') $primary no-repeat center center scroll;
     background-size: cover;
-  }
-  body video {
-    display: none;
   }
 }
 
